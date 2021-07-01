@@ -48,3 +48,10 @@ to initialize a git repository localy
     ```
 
 - you are all done !
+
+## Hint About Branching
+- to create a new branch , open your versioned directory in terminal and type
+    ```
+    git branch name-of-your-branch-with-no-space
+    ```
+- this will create a branch in your local version.
